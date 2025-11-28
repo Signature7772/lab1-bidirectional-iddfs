@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-# ga_gui_variant3.py
-# GUI for Genetic Algorithm — Variant 3 (f(x) = -(x/256)^2 + 5x + 15)
-# Author: (твій ім'я)
-# Usage: python ga_gui_variant3.py
 
 import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext
